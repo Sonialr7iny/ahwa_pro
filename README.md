@@ -5,6 +5,7 @@
 
 A simple **Dart-based drink ordering system** demonstrating **OOP concepts** like abstraction, inheritance, and composition.  
 This project allows creating drinks, managing orders, and generating simple reports.
+I applied three SOLID principles and OOP concepts in designing the Smart Ahwa Manager app. First, I used Encapsulation by keeping order fields private with controlled access to ensure data integrity. Second, I respected the Single Responsibility Principle by separating order management, reporting, and UI display into distinct classes. Third, I applied the Open-Closed Principle by designing an abstract base class Drink, with subclasses like Shai, TurkishCoffee, and coffee , making it easy to add new drinks without changing existing code. These design choices reflect The Object-Oriented Thought Process by emphasizing modularity, abstraction, and reusability . 
 
 ---
 
