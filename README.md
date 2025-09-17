@@ -12,10 +12,8 @@ This project allows creating drinks, managing orders, and generating simple repo
 
 - [Features](#-features)  
 - [Classes Overview](#-classes-overview)  
-- [Installation](#-installation)  
 - [Usage](#-usage)  
-- [Key Concepts](#-key-concepts)  
-- [License](#-license)  
+- [Key Concepts](#-key-concepts)    
 
 ---
 
@@ -121,10 +119,10 @@ void main() {
 
 ## Key Concepts
 
-### Abstract classes & inheritance
+**Abstract classes & inheritance**
 
-### Composition (Order contains a Drink)
+**Composition (Order contains a Drink)**
 
-### List management for orders
+**List management for orders**
 
-### Simple reporting
+**Simple reporting**
