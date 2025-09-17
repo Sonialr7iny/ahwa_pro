@@ -11,7 +11,8 @@ This project allows creating drinks, managing orders, and generating simple repo
 ## 📝 Table of Contents
 
 - [Features](#-features)  
-- [Classes Overview](#-classes-overview)  
+- [Classes Overview](#-classes-overview)
+- [Installation](#-installation)   
 - [Usage](#-usage)  
 - [Key Concepts](#-key-concepts)    
 
@@ -67,7 +68,7 @@ This project allows creating drinks, managing orders, and generating simple repo
 
 
 ## Usage Example:
-
+<pre> ```dart
 import 'drink.dart';
 import 'order.dart';
 import 'order_manager.dart';
@@ -114,7 +115,7 @@ void main() {
   // Generate updated report
   report.generateReport(manager.pendingOrders);
 }
-
+``` </pre>
 ------------
 
 ## Key Concepts
