@@ -1,4 +1,4 @@
-#  Drink Order Management System ahwa 
+# Smart Ahwa Manager App
 
 [![Language](https://img.shields.io/badge/Language-Dart-blue.svg)](https://dart.dev/) 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
