@@ -12,14 +12,14 @@ void main() {
   myDrink.prepare();
 
   // Create an order
-  Order order1 = Order('Ahmed', myDrink);
+  Order order1 = Order('Edward', myDrink);
 
   // Manage orders
   OrderManager manager = OrderManager();
   manager.addOrder(order1);
 
   // Add another order
-  Order order2 = Order('Layla', Shai());
+  Order order2 = Order('Sonia', Shai());
   manager.addOrder(order2);
 
   // Show pending orders
