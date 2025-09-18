@@ -119,6 +119,9 @@ void main() {
 ``` </pre>
 ------------
 
+## Console result : 
+![Output](ahwa_pro/order_consol.png)
+
 ## Key Concepts
 
 **Abstract classes & inheritance**
